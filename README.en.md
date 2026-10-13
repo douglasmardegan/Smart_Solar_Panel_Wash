@@ -1,4 +1,4 @@
-# Smart Panel Wash – Autonomous Solar Panel Cleaning System
+# Smart Solar Panel Wash – Autonomous Solar Panel Cleaning System
 
 > *Energy efficiency and sustainability in every cycle.*
 
@@ -10,7 +10,7 @@
 
 ---
 
-**Smart Panel Wash** is an autonomous and telemetered robot designed to automate and standardize the ecological cleaning of photovoltaic panels in solar power plants, commercial, and residential installations.
+**Smart Solar Panel Wash** is an autonomous and telemetered robot designed to automate and standardize the ecological cleaning of photovoltaic panels in solar power plants, commercial, and residential installations.
 
 The solution replaces costly manual methods with a high risk of accidents with a smart system, maximizing solar energy capture while drastically reducing water waste through predictive automation.
 
