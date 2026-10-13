@@ -1,4 +1,4 @@
-# Smart Panel Wash – Sistema Autônomo de Limpeza de Painéis Solares
+# Smart Solar Panel Wash – Sistema Autônomo de Limpeza de Painéis Solares
 
 > *Eficiência energética e sustentabilidade em cada ciclo.*
 
@@ -10,7 +10,7 @@
 
 ---
 
-**Smart Panel Wash** é um robô autônomo e telemetrado, projetado para automatizar e padronizar a limpeza ecológica de painéis fotovoltaicos em usinas solares e instalações comerciais.
+**Smart Solar Panel Wash** é um robô autônomo e telemetrado, projetado para automatizar e padronizar a limpeza ecológica de painéis fotovoltaicos em usinas solares e instalações comerciais.
 
 A solução substitui métodos manuais, custosos e com alto risco de acidentes por um sistema inteligente, maximizando a captação de energia solar ao mesmo tempo em que reduz drasticamente o desperdício de água através de automação preditiva.
 
