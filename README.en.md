@@ -1,4 +1,4 @@
-# Smart Panel Wash – Autonomous Solar Cleaning System
+# Smart Panel Wash – Autonomous Solar Panel Cleaning System
 
 > *Energy efficiency and sustainability in every cycle.*
 
@@ -10,18 +10,17 @@
 
 ---
 
-**Smart Panel Wash** is an autonomous and telemetered mechatronic robot designed to automate and standardize the ecological cleaning of photovoltaic panels in solar power plants and commercial installations.
+**Smart Panel Wash** is an autonomous and telemetered robot designed to automate and standardize the ecological cleaning of photovoltaic panels in solar power plants, commercial, and residential installations.
 
-The solution replaces costly, manual methods that carry a high risk of workplace accidents with a smart system. It maximizes solar energy capture while drastically reducing water waste through predictive automation.
+The solution replaces costly manual methods with a high risk of accidents with a smart system, maximizing solar energy capture while drastically reducing water waste through predictive automation.
 
 ## 🚀 Key features
 
-- **Autonomous & Eco-Friendly Cleaning:** Advanced fluid usage optimization, including a smart rainwater harnessing eco-mode.
-- **IoT Telemetry & Monitoring:** Real-time control, command dispatch, and status visualization via a proprietary HMI/SCADA mobile application.
-- **Advanced Asset Protection:** Thermal safety interlocks (preventing thermal shock on glass) and strictly controlled mechanical friction to prevent any abrasion on the solar arrays.
+- **Autonomous and eco-friendly cleaning:** Advanced optimization of fluid usage, including an eco-mode that harnesses rainwater.
+- **Telemetered monitoring (IoT):** Real-time control, command issuing, and status visualization through a proprietary HMI/SCADA mobile application.
+- **Advanced asset protection:** Thermal safety interlocks (thermal shock prevention) and controlled mechanical friction to prevent any type of abrasion on the solar panels.
 
 ## 🔒 Intellectual property & confidentiality
 
-This repository serves strictly as a descriptive portfolio and showcase of the project's value proposition.
-
-Due to the business model and ongoing plans for **patenting and commercialization**, all critical system architecture is restricted. The source code (ESP32 firmware and Android mobile app), schematic diagrams, hardware specifications, mechanical gantry details, and connectivity protocols are closed-source and strictly confidential.
+- This repository serves exclusively as a descriptive portfolio and showcase of the project's value proposition.
+- Due to the business model and ongoing plans for **patenting and commercialization**, all critical system architecture is restricted. The source code (firmware and application), schematic diagrams, hardware specifications, mechanical gantry details, and connectivity protocols are not open to the public.
