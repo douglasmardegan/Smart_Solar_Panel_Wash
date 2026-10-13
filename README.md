@@ -22,6 +22,5 @@ A solução substitui métodos manuais, custosos e com alto risco de acidentes p
 
 ## 🔒 Propriedade intelectual & confidencialidade
 
-Este repositório serve exclusivamente como portfólio descritivo e vitrine da proposta de valor do projeto.
-
-Devido ao modelo de negócios e aos planos em andamento para **patenteamento e comercialização**, toda a arquitetura crítica do sistema encontra-se restrita. O código-fonte (firmware ESP32 e aplicativo Android), diagramas esquemáticos, especificações de hardware, detalhamentos do pórtico mecânico e protocolos de conectividade não estão abertos ao público.
+- Este repositório serve exclusivamente como portfólio descritivo e vitrine da proposta de valor do projeto.
+- Devido ao modelo de negócios e aos planos em andamento para **patenteamento e comercialização**, toda a arquitetura crítica do sistema encontra-se restrita. O código-fonte (firmware ESP32 e aplicativo Android), diagramas esquemáticos, especificações de hardware, detalhamentos do pórtico mecânico e protocolos de conectividade não estão abertos ao público.
