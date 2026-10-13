@@ -18,7 +18,7 @@ A solução substitui métodos manuais, custosos e com alto risco de acidentes p
 
 - **Limpeza Autônoma e Ecológica:** Otimização avançada do uso de fluidos, incluindo um modo ecológico de aproveitamento da água da chuva.
 - **Monitoramento Telemetrado (IoT):** Controle, emissão de comandos e visualização de status em tempo real através de um aplicativo móvel IHM/SCADA proprietário.
-- **Proteção Avançada do Ativo:** Intertravamentos de segurança térmica (prevenção de choque térmico nos vidros) e fricção mecânica rigorosamente controlada para evitar qualquer tipo de abrasão nas placas solares.
+- **Proteção Avançada do Ativo:** Intertravamentos de segurança térmica (prevenção de choque térmico) e fricção mecânica controlada para evitar qualquer tipo de abrasão nas placas solares.
 
 ## 🔒 Propriedade intelectual & confidencialidade
 
